@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\skurm\\OneDrive\\Рабочий стол\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\firstTasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\skurm\\OneDrive\\Рабочий стол\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\firstTasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\skurm\\OneDrive\\Рабочий стол\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\firstTasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\skurm\\OneDrive\\Рабочий стол\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\firstTasks\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\skurm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\skurm\\OneDrive\\Рабочий стол\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\firstTasks\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\skurm\\AppData\\Roaming\\NuGet\\NuGet.Config"
