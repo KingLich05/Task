@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "en4u5ZdYMSXog3WOMr6beoOx2DI3+K2j2GIRIM9owdKDgzeSrXTyP1HNTv85jXXspKusoXSIixwciEQtoipf0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\skurm\\OneDrive\\Рабочий стол\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skurm\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\skurm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\skurm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\skurm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
